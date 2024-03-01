@@ -8,7 +8,7 @@ I'm an Embedded Software Engineer based in Cairo, Egypt, with a passion for deve
 
 - 💞️ I’m looking to collaborate on projects related to embedded software development.
 
-- 📫 You can reach me via email at ahmed.a.elaskary@gmail.com or connect with me on [LinkedIn](LinkedIn Profile G).
+- 📫 You can reach me via email at ahmed.a.elaskary@gmail.com or connect with me on [[LinkedIn](LinkedIn Profile G)](https://www.linkedin.com/in/ahmed-elaskary-266475170/).
 
 Feel free to reach out if you'd like to discuss collaborations, projects, or anything tech-related!
 
